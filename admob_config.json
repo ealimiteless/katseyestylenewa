@@ -1,11 +1,11 @@
 {
-  "admob_app_id": "ca-app-pub-6335103216414556~9057151100",
+  "admob_app_id": "ca-app-pub-4754459062262858~9872040642",
   "is_ads_enabled": true,
   "test_ad_units": {
-    "app_open_ad_id": "ca-app-pub-6335103216414556/4512796931",
-    "interstitial_ad_id": "ca-app-pub-6335103216414556/1603400557",
-    "native_ad_id": "ca-app-pub-7152831960123369/2916482227",
-    "banner_ad_id": "ca-app-pub-7152831960123369/3960448074",
-    "rewarded_ad_id": "ca-app-pub-6335103216414556/5825878607"
+    "app_open_ad_id": "ca-app-pub-3940256099942544/9257395921",
+    "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_ad_id": "ca-app-pub-3940256099942544/2247696110",
+    "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+    "rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917"
   }
 }
